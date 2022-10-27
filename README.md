@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=bgs-study&fontAlignY=40&fontSize=90&color=gradient&customColorList=0)
+![header](https://capsule-render.vercel.app/api?type=waving&height=280&text=bgs-study&fontAlignY=40&fontSize=90&color=gradient&customColorList=0)
 
 <br><br>
 
 
-**<h3 align=center font-size=30>welcom ! I'm j-wisdom-h <h3>**
+**<h3 align=center font-size=30>welcome ! I'm ji hye<h3>**
 
 <br><br>
 
